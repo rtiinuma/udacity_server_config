@@ -9,7 +9,9 @@ Date: 9/20/2017
 ## To Run
 
 Navigate in browser:
+
 IP Address: 34.208.252.236
+
 URL: http://34.208.252.236
 
 ## Software Installed
